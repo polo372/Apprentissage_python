@@ -4,7 +4,9 @@ Projets pratiques pour progresser en Python.
 Idée de projet issue de [scrimba docs](https://docs.scrimba.com/python/projects/)
 
 ## Progression
-| Projet | Notions | Statut |
+| Projet | Notions | Statut ✅ Done / 🚧 WIP |
 |--------|---------|--------|
 | Guess Number | Output/Input, Numbers and arithmetic, Control flow, module `random` | ✅ Done |
-|    password generator | Output/Input, Strings, Lists, module `random` | 🚧 WIP |
+| password generator | Output/Input, Strings, Lists, module `random` | ✅ Done |
+
+<!-- 🚧 WIP -->
